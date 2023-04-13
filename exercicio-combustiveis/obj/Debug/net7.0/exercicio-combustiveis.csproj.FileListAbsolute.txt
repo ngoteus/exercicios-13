@@ -1,0 +1,15 @@
+C:\Users\48527217856\Desktop\exercicio-combustiveis\obj\Debug\net7.0\exercicio-combustiveis.csproj.AssemblyReference.cache
+C:\Users\48527217856\Desktop\exercicio-combustiveis\obj\Debug\net7.0\exercicio-combustiveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48527217856\Desktop\exercicio-combustiveis\obj\Debug\net7.0\exercicio-combustiveis.AssemblyInfoInputs.cache
+C:\Users\48527217856\Desktop\exercicio-combustiveis\obj\Debug\net7.0\exercicio-combustiveis.AssemblyInfo.cs
+C:\Users\48527217856\Desktop\exercicio-combustiveis\obj\Debug\net7.0\exercicio-combustiveis.csproj.CoreCompileInputs.cache
+C:\Users\48527217856\Desktop\exercicio-combustiveis\bin\Debug\net7.0\exercicio-combustiveis.exe
+C:\Users\48527217856\Desktop\exercicio-combustiveis\bin\Debug\net7.0\exercicio-combustiveis.deps.json
+C:\Users\48527217856\Desktop\exercicio-combustiveis\bin\Debug\net7.0\exercicio-combustiveis.runtimeconfig.json
+C:\Users\48527217856\Desktop\exercicio-combustiveis\bin\Debug\net7.0\exercicio-combustiveis.dll
+C:\Users\48527217856\Desktop\exercicio-combustiveis\bin\Debug\net7.0\exercicio-combustiveis.pdb
+C:\Users\48527217856\Desktop\exercicio-combustiveis\obj\Debug\net7.0\exercicio-combustiveis.dll
+C:\Users\48527217856\Desktop\exercicio-combustiveis\obj\Debug\net7.0\refint\exercicio-combustiveis.dll
+C:\Users\48527217856\Desktop\exercicio-combustiveis\obj\Debug\net7.0\exercicio-combustiveis.pdb
+C:\Users\48527217856\Desktop\exercicio-combustiveis\obj\Debug\net7.0\exercicio-combustiveis.genruntimeconfig.cache
+C:\Users\48527217856\Desktop\exercicio-combustiveis\obj\Debug\net7.0\ref\exercicio-combustiveis.dll

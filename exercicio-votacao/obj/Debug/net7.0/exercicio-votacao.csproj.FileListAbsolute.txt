@@ -1,0 +1,15 @@
+C:\Users\48527217856\Desktop\exercicio-votacao\obj\Debug\net7.0\exercicio-votacao.csproj.AssemblyReference.cache
+C:\Users\48527217856\Desktop\exercicio-votacao\obj\Debug\net7.0\exercicio-votacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48527217856\Desktop\exercicio-votacao\obj\Debug\net7.0\exercicio-votacao.AssemblyInfoInputs.cache
+C:\Users\48527217856\Desktop\exercicio-votacao\obj\Debug\net7.0\exercicio-votacao.AssemblyInfo.cs
+C:\Users\48527217856\Desktop\exercicio-votacao\obj\Debug\net7.0\exercicio-votacao.csproj.CoreCompileInputs.cache
+C:\Users\48527217856\Desktop\exercicio-votacao\bin\Debug\net7.0\exercicio-votacao.exe
+C:\Users\48527217856\Desktop\exercicio-votacao\bin\Debug\net7.0\exercicio-votacao.deps.json
+C:\Users\48527217856\Desktop\exercicio-votacao\bin\Debug\net7.0\exercicio-votacao.runtimeconfig.json
+C:\Users\48527217856\Desktop\exercicio-votacao\bin\Debug\net7.0\exercicio-votacao.dll
+C:\Users\48527217856\Desktop\exercicio-votacao\bin\Debug\net7.0\exercicio-votacao.pdb
+C:\Users\48527217856\Desktop\exercicio-votacao\obj\Debug\net7.0\exercicio-votacao.dll
+C:\Users\48527217856\Desktop\exercicio-votacao\obj\Debug\net7.0\refint\exercicio-votacao.dll
+C:\Users\48527217856\Desktop\exercicio-votacao\obj\Debug\net7.0\exercicio-votacao.pdb
+C:\Users\48527217856\Desktop\exercicio-votacao\obj\Debug\net7.0\exercicio-votacao.genruntimeconfig.cache
+C:\Users\48527217856\Desktop\exercicio-votacao\obj\Debug\net7.0\ref\exercicio-votacao.dll
