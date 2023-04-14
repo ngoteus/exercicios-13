@@ -1,0 +1,15 @@
+C:\Users\48527217856\Desktop\exercicio-inverso\bin\Debug\net7.0\exercicio-inverso.exe
+C:\Users\48527217856\Desktop\exercicio-inverso\bin\Debug\net7.0\exercicio-inverso.deps.json
+C:\Users\48527217856\Desktop\exercicio-inverso\bin\Debug\net7.0\exercicio-inverso.runtimeconfig.json
+C:\Users\48527217856\Desktop\exercicio-inverso\bin\Debug\net7.0\exercicio-inverso.dll
+C:\Users\48527217856\Desktop\exercicio-inverso\bin\Debug\net7.0\exercicio-inverso.pdb
+C:\Users\48527217856\Desktop\exercicio-inverso\obj\Debug\net7.0\exercicio-inverso.csproj.AssemblyReference.cache
+C:\Users\48527217856\Desktop\exercicio-inverso\obj\Debug\net7.0\exercicio-inverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48527217856\Desktop\exercicio-inverso\obj\Debug\net7.0\exercicio-inverso.AssemblyInfoInputs.cache
+C:\Users\48527217856\Desktop\exercicio-inverso\obj\Debug\net7.0\exercicio-inverso.AssemblyInfo.cs
+C:\Users\48527217856\Desktop\exercicio-inverso\obj\Debug\net7.0\exercicio-inverso.csproj.CoreCompileInputs.cache
+C:\Users\48527217856\Desktop\exercicio-inverso\obj\Debug\net7.0\exercicio-inverso.dll
+C:\Users\48527217856\Desktop\exercicio-inverso\obj\Debug\net7.0\refint\exercicio-inverso.dll
+C:\Users\48527217856\Desktop\exercicio-inverso\obj\Debug\net7.0\exercicio-inverso.pdb
+C:\Users\48527217856\Desktop\exercicio-inverso\obj\Debug\net7.0\exercicio-inverso.genruntimeconfig.cache
+C:\Users\48527217856\Desktop\exercicio-inverso\obj\Debug\net7.0\ref\exercicio-inverso.dll

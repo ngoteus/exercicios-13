@@ -1,0 +1,15 @@
+C:\Users\48527217856\Desktop\exercicio-nome\bin\Debug\net7.0\exercicio-nome.exe
+C:\Users\48527217856\Desktop\exercicio-nome\bin\Debug\net7.0\exercicio-nome.deps.json
+C:\Users\48527217856\Desktop\exercicio-nome\bin\Debug\net7.0\exercicio-nome.runtimeconfig.json
+C:\Users\48527217856\Desktop\exercicio-nome\bin\Debug\net7.0\exercicio-nome.dll
+C:\Users\48527217856\Desktop\exercicio-nome\bin\Debug\net7.0\exercicio-nome.pdb
+C:\Users\48527217856\Desktop\exercicio-nome\obj\Debug\net7.0\exercicio-nome.csproj.AssemblyReference.cache
+C:\Users\48527217856\Desktop\exercicio-nome\obj\Debug\net7.0\exercicio-nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48527217856\Desktop\exercicio-nome\obj\Debug\net7.0\exercicio-nome.AssemblyInfoInputs.cache
+C:\Users\48527217856\Desktop\exercicio-nome\obj\Debug\net7.0\exercicio-nome.AssemblyInfo.cs
+C:\Users\48527217856\Desktop\exercicio-nome\obj\Debug\net7.0\exercicio-nome.csproj.CoreCompileInputs.cache
+C:\Users\48527217856\Desktop\exercicio-nome\obj\Debug\net7.0\exercicio-nome.dll
+C:\Users\48527217856\Desktop\exercicio-nome\obj\Debug\net7.0\refint\exercicio-nome.dll
+C:\Users\48527217856\Desktop\exercicio-nome\obj\Debug\net7.0\exercicio-nome.pdb
+C:\Users\48527217856\Desktop\exercicio-nome\obj\Debug\net7.0\exercicio-nome.genruntimeconfig.cache
+C:\Users\48527217856\Desktop\exercicio-nome\obj\Debug\net7.0\ref\exercicio-nome.dll

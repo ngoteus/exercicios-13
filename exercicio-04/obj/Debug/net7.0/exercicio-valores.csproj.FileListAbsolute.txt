@@ -1,0 +1,15 @@
+C:\Users\48527217856\Desktop\exercicio-valores\obj\Debug\net7.0\exercicio-valores.csproj.AssemblyReference.cache
+C:\Users\48527217856\Desktop\exercicio-valores\obj\Debug\net7.0\exercicio-valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48527217856\Desktop\exercicio-valores\obj\Debug\net7.0\exercicio-valores.AssemblyInfoInputs.cache
+C:\Users\48527217856\Desktop\exercicio-valores\obj\Debug\net7.0\exercicio-valores.AssemblyInfo.cs
+C:\Users\48527217856\Desktop\exercicio-valores\obj\Debug\net7.0\exercicio-valores.csproj.CoreCompileInputs.cache
+C:\Users\48527217856\Desktop\exercicio-valores\bin\Debug\net7.0\exercicio-valores.exe
+C:\Users\48527217856\Desktop\exercicio-valores\bin\Debug\net7.0\exercicio-valores.deps.json
+C:\Users\48527217856\Desktop\exercicio-valores\bin\Debug\net7.0\exercicio-valores.runtimeconfig.json
+C:\Users\48527217856\Desktop\exercicio-valores\bin\Debug\net7.0\exercicio-valores.dll
+C:\Users\48527217856\Desktop\exercicio-valores\bin\Debug\net7.0\exercicio-valores.pdb
+C:\Users\48527217856\Desktop\exercicio-valores\obj\Debug\net7.0\exercicio-valores.dll
+C:\Users\48527217856\Desktop\exercicio-valores\obj\Debug\net7.0\refint\exercicio-valores.dll
+C:\Users\48527217856\Desktop\exercicio-valores\obj\Debug\net7.0\exercicio-valores.pdb
+C:\Users\48527217856\Desktop\exercicio-valores\obj\Debug\net7.0\exercicio-valores.genruntimeconfig.cache
+C:\Users\48527217856\Desktop\exercicio-valores\obj\Debug\net7.0\ref\exercicio-valores.dll
